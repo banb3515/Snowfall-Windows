@@ -1,6 +1,6 @@
 # **Snowfall**
 
-> ### **[Portfolio - Snowfall](http://banb.work/Portfolio/Snowfall)**
+> ### **[Project - Snowfall](http://banb.work/Project/Snowfall)**
 
 ---
 
