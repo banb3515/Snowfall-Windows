@@ -1,11 +1,5 @@
 # **Snowfall**
 
-> ### **[Project - Snowfall](http://banb.work/Project/Snowfall)**
-
----
-
-> [![Release](https://img.shields.io/badge/Release-v1.0-2F9D27?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/BanB3515/Snowfall/-/releases)
-
 ---
 
 > ## **목차**
@@ -27,7 +21,7 @@
 
 > ### **스크린샷**
 >
-> ![Snowfall 스크린샷](https://gitlab.com/BanB3515/Snowfall/-/raw/main/Screenshots/Screenshot.gif)
+> ![Snowfall 스크린샷](./Screenshots/Screenshot.gif)
 
 ---
 
